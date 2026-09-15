@@ -16,3 +16,8 @@
     2. How would you make the hold operation safe if two users try to reserve the same seat at nearly the same time and both booking requests hit your Booking Service together?
     3. How can your design scale to support up to 10M concurrent users reading event data? Focus on optimizing the database and read flow for this high volume of requests.
     4. How can you make the seat map on the event page automatically refresh to display the latest seat availability in real time?
+4. **WhatsApp**
+    1. How 1-to-1 and group chat will work, send and receive messages
+    2. Design to allow users to receive messages later if their client is offline
+    3. How can we enable billions of simultaneous users?
+    4. What do we do to handle multiple clients for a given user?
