@@ -21,3 +21,9 @@
     2. Design to allow users to receive messages later if their client is offline
     3. How can we enable billions of simultaneous users?
     4. What do we do to handle multiple clients for a given user?
+5. LeetCode
+    1. How will users be able to view a live leaderboard for competitions?
+    2. List off some ways that you'd support isolation and security when running user code?
+    3. How would you enforce that isolation so the worker can still send code in and collect results, but the user program itself cannot initiate outbound communication?
+    4. How would the system scale to support spikes of submissions during competitions while not dropping requests?
+    5. How would you decide when to scale up or scale down the worker and sandbox capacity from queue signals, while avoiding thrashing during a bursty contest ending?
