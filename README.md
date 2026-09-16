@@ -4,6 +4,8 @@
 
 | # | Date | HLD | DSA | LLD | Projects | Behavioral/Leadership	|
 |---|---|---|---|---|---|---|
-| 1 | 11-09-2026 | AI Mock Interview: Youtube |
-| 2 | 12-09-2026 | AI Mock Interview: Instagram News Feed |
-| 3 | 13-09-2026 | AI Mock Interview: BookMyShow |
+| 1 | 11-09-2026 | ✅ |
+| 2 | 12-09-2026 | ✅ |
+| 3 | 13-09-2026 | ✅ |
+| 4 | 15-09-2026 | ✅ |
+| 5 | 16-09-2026 | ✅ |
