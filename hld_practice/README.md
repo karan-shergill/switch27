@@ -9,3 +9,4 @@ Tracking system design mock interviews practiced
 | 3 | 13-09-2026 | BookMyShow | 83% | [13-09-2026_bookmyshow.md](13-09-2026_bookmyshow.md) |
 | 4 | 15-09-2026 | WhatsApp | 89% | [15-09-2026_whatsapp.md](15-09-2026_whatsapp.md) |
 | 5 | 16-09-2026 | LeetCode | 96% | [16-09-2026_leetcode.md](16-09-2026_leetcode.md) |
+| 6 | 19-09-2026 | Rate Limiter | 70% | [19-09-2026_rate_limiter.md](19-09-2026_rate_limiter.md) |
