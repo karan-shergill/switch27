@@ -27,3 +27,13 @@
     3. How would you enforce that isolation so the worker can still send code in and collect results, but the user program itself cannot initiate outbound communication?
     4. How would the system scale to support spikes of submissions during competitions while not dropping requests?
     5. How would you decide when to scale up or scale down the worker and sandbox capacity from queue signals, while avoiding thrashing during a bursty contest ending?
+6. Distributed Rate Limiter
+    1. What is the interface of your rate limiting component? Describe the inputs it needs (e.g., client ID, rule info) and outputs it returns (e.g., allow/deny decision, remaining quota).
+    2. Where should the rate limiter be placed in your overall system? Consider the trade-offs of different placement options.
+    3. What rate limiting algorithm would you use and why?
+    4. How do we scale to handle 1M requests/second?
+    5. How would you handle rebalancing when you add or remove Redis shards so that clients do not see inconsistent rate limit decisions during the transition?
+    6. What happens when our rate limiting system fails? Should we pass all traffic or block all traffic, and how do we recover quickly?
+    7. You said you would handle the outage gracefully rather than allow or deny everything. How would your gateway decide how much traffic to allow for a given client while Redis is down if it cannot read the current counters?
+    8. How do we minimize latency overhead?
+    9. How do we handle dynamic rule configuration? Where are rules stored and how does our gateway know about them?
