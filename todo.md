@@ -7,7 +7,7 @@
 
 ## HLD - Mock Interview
 
-1. Distributed Cache
+1. Distributed Cache ✅
 2. Rate Limiter
 3. Notification System
 4. Job Scheduler
