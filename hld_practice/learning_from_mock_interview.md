@@ -37,3 +37,12 @@
     7. You said you would handle the outage gracefully rather than allow or deny everything. How would your gateway decide how much traffic to allow for a given client while Redis is down if it cannot read the current counters?
     8. How do we minimize latency overhead?
     9. How do we handle dynamic rule configuration? Where are rules stored and how does our gateway know about them?
+7. Distributed Cache Like Redis
+    1. Design a basic, single-node cache that supports get, set, and delete operations.
+    2. How would you implement TTL (time-to-live) functionality for cache entries?
+    3. How would you expand on your design to include an LRU eviction policy?
+    4. How would you ensure your cache is both highly available and fault tolerant?
+    5. How would you decide whether replicas are allowed to serve reads immediately after a write, and what tradeoff would that create for clients that expect fresh values?
+    6. How would you ensure your cache can scale dynamically to support large amounts of data up to 1TB?
+    7. How would you handle requests during the period when keys are being remapped after adding a new cache node so that clients do not see inconsistent reads or a large spike in cache misses?
+    8. What if one key is extremely hot? How Read & Write will be handled for that key?
