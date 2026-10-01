@@ -1,5 +1,11 @@
 # Tracker
 
+## OCT
+
+| # | Date | HLD | DSA | LLD | Projects | Behavioral/Leadership	|
+|---|---|---|---|---|---|---|
+| 1 | 01-10-2026 | ✅ |
+
 ## SEP
 
 | # | Date | HLD | DSA | LLD | Projects | Behavioral/Leadership	|
@@ -11,3 +17,4 @@
 | 5 | 16-09-2026 | ✅ |
 | 6 | 19-09-2026 | ✅ |
 | 7 | 27-09-2026 | ✅ |
+| 8 | 29-09-2026 | ✅ |
