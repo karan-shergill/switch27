@@ -46,3 +46,9 @@
     6. How would you ensure your cache can scale dynamically to support large amounts of data up to 1TB?
     7. How would you handle requests during the period when keys are being remapped after adding a new cache node so that clients do not see inconsistent reads or a large spike in cache misses?
     8. What if one key is extremely hot? How Read & Write will be handled for that key?
+8. Notification System
+    1. How does your system guarantee that an accepted notification is never dropped, even if a worker crashes or a provider has an outage?
+    2. How would you make your write to storage and your enqueue to the next stage behave as one durable handoff so a crash between those two actions cannot strand accepted work?
+    3. How would you ensure critical notifications like OTPs and account alerts are delivered within 5 seconds, even while a million-user campaign is being delivered?
+    4. Your system guarantees at-least-once delivery. How do you prevent a user from receiving the same OTP or promotional message multiple times when retries and worker restarts happen?
+    5. If one SMS or email provider becomes slow or starts failing, how do you stop that provider from stalling delivery for the rest of the system?
