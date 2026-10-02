@@ -52,3 +52,11 @@
     3. How would you ensure critical notifications like OTPs and account alerts are delivered within 5 seconds, even while a million-user campaign is being delivered?
     4. Your system guarantees at-least-once delivery. How do you prevent a user from receiving the same OTP or promotional message multiple times when retries and worker restarts happen?
     5. If one SMS or email provider becomes slow or starts failing, how do you stop that provider from stalling delivery for the rest of the system?
+9. Job Scheduler
+    1. How can we ensure the system executes jobs within 2s of their scheduled time? If your design already does, explain how.
+    2. How would your design handle a job that gets created at 5 02 for execution at 5 03 after the 5 00 scan has already finished?
+    3. How can we scale job execution to support up to 10,000 concurrent jobs executing in parallel?
+    4. You mentioned scaling workers from SQS backlog. How would you choose the signals and thresholds so the worker fleet scales up fast enough for bursts without overreacting to short queue spikes?
+    5. How should we handle retrying jobs that fail during execution?
+    6. What will happen if a worker node running a job, died in the middle of execution?
+    7. What if we are not allowed to use SQS, Kafka doesn't have visibility timeout. How do you handle worker failure?
