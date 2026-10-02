@@ -10,7 +10,7 @@
 1. Distributed Cache ✅
 2. Rate Limiter ✅ ✅
 3. Notification System ✅
-4. Job Scheduler
+4. Job Scheduler ✅
 5. Ticketmaster
 6. Facebook News Feed
 7. WhatsApp
