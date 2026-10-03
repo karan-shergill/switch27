@@ -11,10 +11,10 @@
 2. Rate Limiter ✅ ✅
 3. Notification System ✅
 4. Job Scheduler ✅
-5. Ticketmaster
+5. Ticketmaster ✅
 6. Facebook News Feed
-7. WhatsApp
-8. YouTube
+7. WhatsApp ✅
+8. YouTube ✅
 9. Dropbox ✅
 10. Uber
 11. Payment System
