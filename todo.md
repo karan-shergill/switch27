@@ -22,8 +22,8 @@
 13. Web Crawler
 14. Metrics Monitoring
 15. Ad Click Aggregator
-16. Instagram
-17. LeetCode
+16. Instagram ✅
+17. LeetCode ✅
 18. Robinhood
 19. ChatGPT
 20. Flash Sale
