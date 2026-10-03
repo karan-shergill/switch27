@@ -60,3 +60,11 @@
     5. How should we handle retrying jobs that fail during execution?
     6. What will happen if a worker node running a job, died in the middle of execution?
     7. What if we are not allowed to use SQS, Kafka doesn't have visibility timeout. How do you handle worker failure?
+10. Dropbox
+    1. How will users be able to upload files? How will users be able to download files from remote storage?
+    2. Design how the Dropbox desktop / mobile sync agent detects edits in the user's local Dropbox folder and uploads those changes to remote storage.
+    3. Design how the sync agent on a device discovers changes that happened in the cloud and applies them to the local file system.
+    4. How will your system handle uploading large files (up to 50GB) given the limitations of most servers and clients on the size of a POST request body?
+    5. Uploading large files can also be challenging due to network interruptions. How does your design allow users to resume an interrupted upload without starting over from scratch?
+    6. How would you prevent a client from finalizing an upload if some chunks were duplicated, missing, or uploaded out of order after several retries and parallel uploads?
+    7. How can we reduce bandwidth usage and make the sync process faster than downloading full files each time they change?
