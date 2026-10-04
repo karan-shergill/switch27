@@ -14,3 +14,4 @@ Tracking system design mock interviews practiced
 | 8 | 29-09-2026 | Notification System | 75% | [29-08-2026_notification.md](29-08-2026_notification.md) |
 | 9 | 02-10-2026 | Job Scheduler | 93% | [02-10-2026_job_scheduler.md](02-10-2026_job_scheduler.md) |
 | 10 | 03-10-2026 | Dropbox | 85% | [3-10-2026_dropbox.md](3-10-2026_dropbox.md) |
+| 11 | 04-10-2026 | Uber | 82% | [4-10-2026_uber.md](4-10-2026_uber.md) |
