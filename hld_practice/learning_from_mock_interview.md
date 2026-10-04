@@ -68,3 +68,12 @@
     5. Uploading large files can also be challenging due to network interruptions. How does your design allow users to resume an interrupted upload without starting over from scratch?
     6. How would you prevent a client from finalizing an upload if some chunks were duplicated, missing, or uploaded out of order after several retries and parallel uploads?
     7. How can we reduce bandwidth usage and make the sync process faster than downloading full files each time they change?
+11. Uber
+    1. How would you give users a estimated fare based on their start location and destination?
+    2. How will riders be able to request a ride based on the estimated fare?
+    3. How does your system match riders to the best driver for their ride?
+    4. How does your system notify matched drivers and allow them to accept/decline rides?
+    5. How can you handle the high write throughput from drivers sending location updates every couple seconds and efficiently perform proximity searches for matching?
+    6. How do we guarantee each driver receives at most one ride request at a time?
+    7. How can we ensure no ride requests are dropped during peak demand periods?
+    8. How would you handle a trip message that has been picked by one Request Driver Service worker, but that worker crashes after sending some driver notifications and before finishing the trip update?
