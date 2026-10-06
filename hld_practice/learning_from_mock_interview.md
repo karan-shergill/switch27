@@ -77,3 +77,14 @@
     6. How do we guarantee each driver receives at most one ride request at a time?
     7. How can we ensure no ride requests are dropped during peak demand periods?
     8. How would you handle a trip message that has been picked by one Request Driver Service worker, but that worker crashes after sending some driver notifications and before finishing the trip update?
+12. Stripe
+    1. How will merchants be able to initiate payment requests?
+    2. How will users be able to pay for products with credit/debit cards?
+    3. How will merchants be able to view status updates for payments?
+    4. How would you ensure secure authentication for merchants using the payment system?
+    5. How would you secure customer credit card information while in transit?
+    6. How would you ensure that no transaction data is ever lost and maintain complete auditability for compliance?
+    7. How would you make the CDC based audit log tamper evident or immutable enough for compliance if an operator had broad access to the database, Kafka, or object storage?
+    8. How would you ensure transaction safety and financial integrity despite the inherently asynchronous nature of external payment networks?
+    9. How would you handle a case where the webhook says success, your internal update races with another processor, and reconciliation later sees an older or conflicting network status for the same payment?
+    10. How would you scale the payment system to handle 10,000+ transactions per second?
