@@ -1,11 +1,6 @@
-# HLD + LLD
+# Todo
 
-  - [HLD - Mock Interview](#hld---mock-interview)
-  - [Design Patterns](#design-patterns)
-  - [Java Concurrency](#java-concurrency)
-  - [LLD - Mock Interview](#lld---mock-interview)
-
-## HLD - Mock Interview
+## HLD - Mock Interview (Oct 2026)
 
 1. Distributed Cache ✅
 2. Rate Limiter ✅ ✅
