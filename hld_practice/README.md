@@ -15,4 +15,7 @@ Tracking system design mock interviews practiced
 | 9 | 02-10-2026 | Job Scheduler | 93% | [02-10-2026_job_scheduler.md](02-10-2026_job_scheduler.md) |
 | 10 | 03-10-2026 | Dropbox | 85% | [3-10-2026_dropbox.md](3-10-2026_dropbox.md) |
 | 11 | 04-10-2026 | Uber | 82% | [4-10-2026_uber.md](4-10-2026_uber.md) |
-| 12 | 04-10-2026 | Stripe | 79% | [5-10-2026_stripe.md](5-10-2026_stripe.md) |
+| 12 | 05-10-2026 | Stripe | 79% | [5-10-2026_stripe.md](5-10-2026_stripe.md) |
+| 13 | 07-10-2026 | Web Crawler | 89% | [7-10-2026_web_crawler.md](7-10-2026_web_crawler.md) |
+| 14 | 09-10-2026 | Metrics Monitoring | 85% | [9-10-2026_metrics_monitoring.md](9-10-2026_metrics_monitoring.md) |
+| 15 | 10-10-2026 | Ad Click Aggregator | 85% | [10-10-2026_ad_click_aggregator.md](10-10-2026_ad_click_aggregator.md) |
