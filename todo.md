@@ -19,9 +19,9 @@
 10. Uber ✅
 11. Payment System ✅
 12. Google Docs
-13. Web Crawler
-14. Metrics Monitoring
-15. Ad Click Aggregator
+13. Web Crawler ✅
+14. Metrics Monitoring ✅
+15. Ad Click Aggregator ✅
 16. Instagram ✅
 17. LeetCode ✅
 18. Robinhood
