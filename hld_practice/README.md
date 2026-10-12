@@ -19,3 +19,4 @@ Tracking system design mock interviews practiced
 | 13 | 07-10-2026 | Web Crawler | 89% | [7-10-2026_web_crawler.md](7-10-2026_web_crawler.md) |
 | 14 | 09-10-2026 | Metrics Monitoring | 85% | [9-10-2026_metrics_monitoring.md](9-10-2026_metrics_monitoring.md) |
 | 15 | 10-10-2026 | Ad Click Aggregator | 85% | [10-10-2026_ad_click_aggregator.md](10-10-2026_ad_click_aggregator.md) |
+| 16 | 12-10-2026 | Stock Broker Application | 79% | [12-10-2026_stock_broker.md](12-10-2026_stock_broker.md) |
