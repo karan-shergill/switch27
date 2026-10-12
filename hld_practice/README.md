@@ -1,4 +1,4 @@
-# HLD Mock Interview
+# HLD Mock Interviews
 
 Tracking system design mock interviews practiced
 
