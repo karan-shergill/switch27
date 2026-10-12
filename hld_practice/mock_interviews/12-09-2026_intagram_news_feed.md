@@ -2,7 +2,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmtxqnb530ogn08adzryi2ahg
 
-![12-09-2026_intagram_news_feed](images/12-09-2026_intagram_news_feed.png)
+![12-09-2026_intagram_news_feed](../images/12-09-2026_intagram_news_feed.png)
 
 # Feedback 
 

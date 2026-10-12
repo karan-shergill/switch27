@@ -6,7 +6,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmuy0udup1y4r01ad6muezl6z
 
-![7-10-2026_web_crawler](images/7-10-2026_web_crawler.png)
+![7-10-2026_web_crawler](../images/7-10-2026_web_crawler.png)
 
 1. **Requirements**
     1. Fault tolerance is a must-have requirement for any long-running distributed system like a web crawler. At scale, crashes and network failures are guaranteed, so your design needs checkpointing or a persistent queue so the crawler can resume from where it left off rather than starting over or re-crawling pages.

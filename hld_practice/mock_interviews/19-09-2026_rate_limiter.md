@@ -4,7 +4,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmmai8lk30rgk09adoawwe264
 
-![19-09-2026_rate_limiter](images/19-09-2026_rate_limiter.png)
+![19-09-2026_rate_limiter](../images/19-09-2026_rate_limiter.png)
 
 1. **Requirements**
     1. A rate limiter sits in the critical path of every single request, so its latency budget must be under 5ms. 
@@ -34,7 +34,7 @@ https://www.hellointerview.com/practice/system-design/cmmai8lk30rgk09adoawwe264
 
 https://www.hellointerview.com/practice/system-design/cmupehus30wpt01adwcplcdg5
 
-![1-10-2026_rate_limiter](images/1-10-2026_rate_limiter.png)
+![1-10-2026_rate_limiter](../images/1-10-2026_rate_limiter.png)
 
 1. **Requirements**
     1. A rate limiter sits in the critical path of every single request, so latency is a top-tier requirement. A good target to memorize is under 5ms added overhead per request check. If the rate limiter is slow, it slows down your entire product.

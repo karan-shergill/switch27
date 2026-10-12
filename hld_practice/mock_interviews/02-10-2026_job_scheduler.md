@@ -4,7 +4,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmuqs8plh31a801adegzs2f7q
 
-![2-10-2026_job_scheduler](images/2-10-2026_job_scheduler.png)
+![2-10-2026_job_scheduler](../images/2-10-2026_job_scheduler.png)
 
 ## Feedback
 

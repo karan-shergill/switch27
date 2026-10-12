@@ -2,7 +2,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmukvepwf7dr507ad1e9jd3v2
 
-![29-08-2026_notification](images/29-08-2026_notification.png)
+![29-08-2026_notification](../images/29-08-2026_notification.png)
 
 # Feedback
 

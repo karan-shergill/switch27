@@ -4,7 +4,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmv0l0tg603f001adj2r2adbs
 
-![9-10-2026_metrics_monitoring](images/9-10-2026_metrics_monitoring.png)
+![9-10-2026_metrics_monitoring](../images/9-10-2026_metrics_monitoring.png)
 
 ## Feedback
 

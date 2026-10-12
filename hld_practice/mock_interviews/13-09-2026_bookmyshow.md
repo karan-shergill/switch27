@@ -2,7 +2,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmtzzg65e3uyb07ad7dqap1z4
 
-![13-09-2026_bookmyshow](images/13-09-2026_bookmyshow.png)
+![13-09-2026_bookmyshow](../images/13-09-2026_bookmyshow.png)
 
 # Feedback to work on
 

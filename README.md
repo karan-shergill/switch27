@@ -1,4 +1,11 @@
-# Todo
+# To-do
+
+## Table of Contents
+
+- [HLD - Mock Interview (Oct 2026)](#hld---mock-interview-oct-2026)
+- [Design Patterns](#design-patterns)
+- [Java Concurrency](#java-concurrency)
+- [LLD - Mock Interview](#lld---mock-interview)
 
 ## HLD - Mock Interview (Oct 2026)
 
@@ -40,66 +47,20 @@
 
 ## Java Concurrency
 
-1. **Thread Creation & Lifecycle**
-    - Thread / Runnable / Callable
-    - `start()`, `join()`, `sleep()`, interruption
-2. **synchronized + wait/notify**
-    - `synchronized`
-    - `wait()`, `notify()`, `notifyAll()`
-    - Build **Producer-Consumer**
-3. **volatile vs synchronized**
-    - Visibility vs atomicity
-    - Happens-before
-    - Don't over-invest in formal JMM details
-4. **Locks**
-    - `ReentrantLock`
-    - `Condition`
-    - `ReadWriteLock`
-5. **Atomic Classes + CAS**
-    - `AtomicInteger`, `AtomicLong`, `AtomicReference`
-    - CAS concept
-    - `LongAdder` for high-contention counters
-6. **ExecutorService / ThreadPoolExecutor**
-    - Pool sizing
-    - Work queues
-    - Rejection policies
-7. **Callable / Future / CompletableFuture**
-    - Async execution
-    - Chaining and combining tasks
-    - Exception handling
-8. **Concurrent Collections**
-    - `ConcurrentHashMap`
-    - `BlockingQueue`
-    - `CopyOnWriteArrayList`
-9. **Synchronization Utilities**
-    - `CountDownLatch` → wait for tasks to complete
-    - `CyclicBarrier` → multiple threads wait at a common point
-    - `Semaphore` → limit concurrent access
-10. **Deadlock / Livelock / Starvation**
-    - What they are
-    - Prevention
-    - Lock ordering
-11. **Coding Practice**
-    - Bounded Blocking Queue
-    - Producer-Consumer
-    - Thread-safe LRU Cache
-    - Rate Limiter
-    - Print in Order / Ordered Thread Execution
-12. **Thread-Safety Concepts**
-    - Thread safety
-    - Immutability
-    - Thread confinement
-    - Safe publication
-    - Focus on concepts rather than code
-13. **ThreadLocal**
-    - Use cases
-    - Why it can cause problems in thread pools
-    - Cleanup with `remove()`
-14. **Virtual Threads vs Platform Threads**
-    - Key differences
-    - When to use virtual threads
-    - Thread pinning
-    - Spend **15–20 minutes** here — important modern Java interview topic in 2026.
+1. Thread Creation & Lifecycle
+2. synchronized + wait/notify
+3. volatile vs synchronized
+4. Locks
+5. Atomic Classes + CAS
+6. ExecutorService / ThreadPoolExecutor
+7. Callable / Future / CompletableFuture
+8. Concurrent Collections
+9. Synchronization Utilities
+10. Deadlock / Livelock / Starvation
+11. Coding Practice
+12. Thread-Safety Concepts
+13. ThreadLocal
+14. Virtual Threads vs Platform Threads
 
 ## LLD - Mock Interview
 

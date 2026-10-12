@@ -4,7 +4,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmv3t2ydk1ymz01adw8omyele
 
-![12-10-2026_stock_broker](images/12-10-2026_stock_broker.png)
+![12-10-2026_stock_broker](../images/12-10-2026_stock_broker.png)
 
 ## Feedback
 

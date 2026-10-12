@@ -4,7 +4,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmmah8fnv0qfd07adcjdmwyvr
 
-![10-10-2026_ad_click_aggregator](images/10-10-2026_ad_click_aggregator.png)
+![10-10-2026_ad_click_aggregator](../images/10-10-2026_ad_click_aggregator.png)
 
 ## Feedback
 

@@ -2,7 +2,7 @@
 
 https://www.hellointerview.com/practice/system-design/cmujc6yf84n4p08adwszs7v4z
 
-![27-09-2026_distributed_cache](images/27-09-2026_distributed_cache.png)
+![27-09-2026_distributed_cache](../images/27-09-2026_distributed_cache.png)
 
 # FeedBack
 
