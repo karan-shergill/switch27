@@ -88,3 +88,11 @@
     8. How would you ensure transaction safety and financial integrity despite the inherently asynchronous nature of external payment networks?
     9. How would you handle a case where the webhook says success, your internal update races with another processor, and reconciliation later sees an older or conflicting network status for the same payment?
     10. How would you scale the payment system to handle 10,000+ transactions per second?
+13. Stock Broker Application
+    1. How will users be able to see live prices of stocks?
+    2. How will users be able to create orders for stocks? Live & Limit
+    3. How will users be able to see their orders for stocks?
+    4. How would the system ensure real-time price updates?
+        1. How would you handle a client reconnecting after an SSE disconnect so they resume from a sensible point and do not see confusing gaps or duplicates in price updates?
+    5. How would the system manage a large volume of price updates sent to a large number of users?
+    6. How would you ensure high order consistency?
