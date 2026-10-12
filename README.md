@@ -19,7 +19,7 @@
 15. Ad Click Aggregator ✅
 16. Instagram ✅
 17. LeetCode ✅
-18. Robinhood
+18. Robinhood ✅
 19. ChatGPT
 20. Flash Sale
 21. Game Leaderboard
