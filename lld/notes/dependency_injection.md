@@ -2,6 +2,29 @@
 
 > These notes explain Dependency Injection (DI) using plain Java — no Spring, annotations, or frameworks.
 
+## Table of Contents
+
+- [1. What problem does Dependency Injection solve?](#1-what-problem-does-dependency-injection-solve)
+  - [Approach 1: Create the dependency inside the class](#approach-1-create-the-dependency-inside-the-class)
+- [2. What is Dependency Injection?](#2-what-is-dependency-injection)
+  - [Approach 2: Inject the dependency through a constructor](#approach-2-inject-the-dependency-through-a-constructor)
+  - [Before DI vs. after DI](#before-di-vs-after-di)
+- [3. Types of Dependency Injection](#3-types-of-dependency-injection)
+  - [A. Constructor injection](#a-constructor-injection)
+  - [B. Setter injection](#b-setter-injection)
+  - [C. Method injection](#c-method-injection)
+  - [Quick comparison](#quick-comparison)
+- [4. When is Dependency Injection not needed?](#4-when-is-dependency-injection-not-needed)
+- [5. When should you use Dependency Injection?](#5-when-should-you-use-dependency-injection)
+  - [Step 1: Define an interface](#step-1-define-an-interface)
+  - [Step 2: Create multiple implementations](#step-2-create-multiple-implementations)
+  - [Step 3: Inject the dependency](#step-3-inject-the-dependency)
+  - [Step 4: Choose the implementation outside the class](#step-4-choose-the-implementation-outside-the-class)
+  - [Why this design is better](#why-this-design-is-better)
+- [6. Dependency Injection vs. Inversion of Control (IoC)](#6-dependency-injection-vs-inversion-of-control-ioc)
+- [7. Interview cheat sheet](#7-interview-cheat-sheet)
+- [The one thing to remember](#the-one-thing-to-remember)
+
 ## 1. What problem does Dependency Injection solve?
 
 Imagine you're building a notification system. An `EmailService` sends emails, and a `NotificationService` uses it.
