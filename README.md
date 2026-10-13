@@ -14,7 +14,7 @@
 3. Notification System ✅
 4. Job Scheduler ✅
 5. Ticketmaster ✅
-6. Facebook News Feed
+6. News Aggregator
 7. WhatsApp ✅
 8. YouTube ✅
 9. Dropbox ✅
