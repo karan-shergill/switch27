@@ -35,6 +35,10 @@
 24. Bitly
 25. Yelp
 
+## LLD
+1. Dependency Injection ✅
+2. SOLID Principles
+
 ## Design Patterns
 
 1. Singleton
