@@ -36,19 +36,30 @@
 25. Yelp
 
 ## LLD
-1. Dependency Injection ✅
-2. SOLID Principles
+1. OOPs Basics: Class, Object, Constructor, static, final, method overloading, method overriding
+2. 4 Pillars of OOPs: Encapsulation, Abstraction, Inheritance, Polymorphism
+3. Object Relationships: Association, Aggregation, Composition
+4. SOLID Principles
+5. Interface vs Abstract Class
+6. Design Patterns
+7. UML Basics: Class diagrams and Sequence diagrams
+8. Dependency Injection ✅
 
 ## Design Patterns
 
-1. Singleton
-2. Factory
-3. Strategy
-4. Observer
-5. State
-6. Decorator
-7. Command
-
+1. Creational Patterns
+    1. Singleton
+    2. Factory
+    3. Builder
+2. Structural Patterns
+    1. Adapter
+    2. Decorator
+3. Behavioural Patterns
+    1. Command
+    2. Strategy
+    3. Observer
+    4. State
+  
 ## Java Concurrency
 
 1. Thread Creation & Lifecycle
