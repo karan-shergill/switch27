@@ -137,3 +137,14 @@
 5. How would you handle a client reconnecting after an SSE disconnect so they resume from a sensible point and do not see confusing gaps or duplicates in price updates?
 5. How would the system manage a large volume of price updates sent to a large number of users?
 6. How would you ensure high order consistency?
+
+## ChatGPT
+
+1. How will users start a new chat and send a prompt that gets turned into an AI response?
+2. How can users view past chats and continue a conversation with context carried across turns?
+3. How do you stream tokens back to the user with low TTFT, and what transport and fanout design would you use between the browser, web tier, and inference workers?
+4. You chose SSE from the chat server to the browser and Kafka between workers and chat servers. How would you preserve token order and detect stream completion or failure for a run when tokens are being forwarded asynchronously through that path?
+5. How do you route and schedule generation requests across GPU inference workers efficiently as load grows?
+6. How do you prevent heavy users from monopolizing GPU capacity while giving paid tiers a meaningfully better experience under load?
+7. How would you implement the Redis token based limiter so a user with one very expensive prompt is treated fairly compared with a user sending many small prompts, especially when you only know the true generation cost after the run completes?
+8. As conversations get longer and usage scales up, how do you keep inference cost under control without making the assistant feel much slower or more forgetful?
