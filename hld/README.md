@@ -20,3 +20,4 @@ Tracking system design mock interviews practiced
 | 14 | 09-10-2026 | Metrics Monitoring | 85% | [9-10-2026_metrics_monitoring.md](mock_interviews/9-10-2026_metrics_monitoring.md) |
 | 15 | 10-10-2026 | Ad Click Aggregator | 85% | [10-10-2026_ad_click_aggregator.md](mock_interviews/10-10-2026_ad_click_aggregator.md) |
 | 16 | 12-10-2026 | Stock Broker Application | 79% | [12-10-2026_stock_broker.md](mock_interviews/12-10-2026_stock_broker.md) |
+| 17 | 14-10-2026 | ChatGPT | 80% | [14-10-2026_chatgpt.md](mock_interviews/14-10-2026_chatgpt.md) |
