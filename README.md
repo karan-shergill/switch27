@@ -43,7 +43,8 @@
 5. Interface vs Abstract Class
 6. Design Patterns
 7. UML Basics: Class diagrams and Sequence diagrams
-8. Dependency Injection ✅
+8. Exception Handling ✅
+9. Dependency Injection ✅
 
 ## Design Patterns
 
