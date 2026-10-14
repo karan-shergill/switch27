@@ -55,10 +55,9 @@
     1. Adapter
     2. Decorator
 3. Behavioural Patterns
-    1. Command
-    2. Strategy
-    3. Observer
-    4. State
+    1. Strategy
+    2. Observer
+    3. State
   
 ## Java Concurrency
 
