@@ -1,5 +1,15 @@
 # Interface vs Abstract Class — LLD Revision Notes
 
+## Table of Contents
+
+- [Core Difference](#core-difference)
+- [1. Interface Example — Payment Contract](#1-interface-example--payment-contract)
+- [2. Abstract Class Example — Shared Workflow](#2-abstract-class-example--shared-workflow)
+- [3. Quick Comparison](#3-quick-comparison)
+- [4. LLD Decision Rule](#4-lld-decision-rule)
+- [5. Common Interview Trap](#5-common-interview-trap)
+- [Interview Recall](#interview-recall)
+
 ## Core Difference
 
 - **Interface:** Defines a contract — what a class can do.

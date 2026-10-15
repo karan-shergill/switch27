@@ -1,5 +1,20 @@
 # 4 Pillars of OOP — LLD Revision Notes
 
+## Table of Contents
+
+- [1. Encapsulation — Protect the Data](#1-encapsulation--protect-the-data)
+  - [Example: Bank Account](#example-bank-account)
+- [2. Abstraction — Hide Complexity](#2-abstraction--hide-complexity)
+  - [Example: Payment System](#example-payment-system)
+- [3. Inheritance — Reuse and Specialize](#3-inheritance--reuse-and-specialize)
+  - [Example: Vehicle](#example-vehicle)
+- [4. Polymorphism — Same Call, Different Behavior](#4-polymorphism--same-call-different-behavior)
+  - [Example: Notification System](#example-notification-system)
+- [How the 4 Pillars Work Together](#how-the-4-pillars-work-together)
+- [Quick Interview Recall](#quick-interview-recall)
+- [Common Interview Distinctions](#common-interview-distinctions)
+- [LLD Design Checklist](#lld-design-checklist)
+
 ## 1. Encapsulation — Protect the Data
 
 **Meaning:** Keep data private and expose controlled operations that enforce business rules.
