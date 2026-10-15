@@ -37,11 +37,10 @@
 
 ## LLD
 1. OOPs Basics: Class, Object, Constructor, static, final, method overloading, method overriding
-2. 4 Pillars of OOPs: Encapsulation, Abstraction, Inheritance, Polymorphism
-3. Object Relationships: Association, Aggregation, Composition
+2. 4 Pillars of OOPs: Encapsulation, Abstraction, Inheritance, Polymorphism ✅
+3. Object Relationships: Association, Aggregation, Composition ✅
 4. SOLID Principles
-5. Interface vs Abstract Class
-6. Design Patterns
+5. Interface vs Abstract Class ✅
 7. UML Basics: Class diagrams and Sequence diagrams
 8. Exception Handling ✅
 9. Dependency Injection ✅
