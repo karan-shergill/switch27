@@ -18,6 +18,8 @@
 - [Metrics Monitoring](#metrics-monitoring)
 - [Ad Click Aggregator](#ad-click-aggregator)
 - [Stock Broker Application](#stock-broker-application)
+- [ChatGPT](#chatgpt)
+- [News Aggregator](#news-aggregator)
 
 ## Notification System
 
@@ -82,3 +84,11 @@
 ## Stock Broker Application
 
 ![12-10-2026_stock_broker](../images/12-10-2026_stock_broker.png)
+
+## ChatGPT
+
+![14-10-2026_chatgpt](../images/14-10-2026_chatgpt.png)
+
+## News Aggregator
+
+![17-10-2026_news_aggregator](../images/17-10-2026_news_aggregator.png)

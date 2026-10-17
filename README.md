@@ -14,7 +14,7 @@
 3. Notification System ✅
 4. Job Scheduler ✅
 5. Ticketmaster ✅
-6. News Aggregator
+6. [News Aggregator](hld/mock_interviews/17-10-2026_news_aggregator.md) ✅
 7. WhatsApp ✅
 8. YouTube ✅
 9. Dropbox ✅
@@ -27,7 +27,7 @@
 16. Instagram ✅
 17. LeetCode ✅
 18. Robinhood ✅
-19. ChatGPT ✅
+19. [ChatGPT](hld/mock_interviews/14-10-2026_chatgpt.md) ✅
 20. Flash Sale
 21. Game Leaderboard
 22. FB Live Comments
