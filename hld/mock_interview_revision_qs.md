@@ -148,3 +148,15 @@
 6. How do you prevent heavy users from monopolizing GPU capacity while giving paid tiers a meaningfully better experience under load?
 7. How would you implement the Redis token based limiter so a user with one very expensive prompt is treated fairly compared with a user sending many small prompts, especially when you only know the true generation cost after the run completes?
 8. As conversations get longer and usage scales up, how do you keep inference cost under control without making the assistant feel much slower or more forgetful?
+
+## News Aggregator
+
+1. How will your system collect and store news articles from thousands of publishers worldwide via their RSS feeds?
+2. How will your system show users a regional feed of news articles?
+3. How will users be able to efficiently scroll through the feed 'infinitely'?
+4. How do you ensure that users feeds load quickly (< 200ms)?
+5. How would you keep each regional Redis feed bounded over time while still supporting the infinite scroll experience for recent articles?
+6. How do we ensure articles appear in feeds within 30 minutes of publication? Even for publishers that don't have RSS feeds.
+7. You mentioned subscriptions or webhooks for some publishers and polling every ten minutes for others. How would you decide which publishers belong in each discovery path and when to move a publisher from one path to another over time?
+8. How do you efficiently deliver thumbnail images for millions of news articles in user feeds?
+9. How do you scale your cache infrastructure to handle 10M concurrent users requesting feeds?
